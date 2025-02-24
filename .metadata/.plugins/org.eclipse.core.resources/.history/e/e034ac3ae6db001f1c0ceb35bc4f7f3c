@@ -1,0 +1,10 @@
+<%@ page import="com.innovator.user.LoginEclipse" %>  
+<html>
+  <body>
+    <p>You are successfully logged in!</p>  
+    <%  
+      LoginEclipse bean = (LoginEclipse) request.getAttribute("bean");  
+      out.print("Welcome, " + bean.getName());  
+    %>
+  </body>
+</html>

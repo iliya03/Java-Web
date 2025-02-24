@@ -1,0 +1,28 @@
+<!-- <!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<form action="add" method="post">
+    	<input type="text" name="num1" placeholder="Enter first number" /><br>
+    	<input type="text" name="num2" placeholder="Enter second number" />
+    	<button type="submit">Add</button>
+	</form>
+	
+</body>
+</html> -->
+
+<html>
+    <head>
+        <title>Start page</title>
+        <meta http-equiv="Content-Type" content="text/html" charset="UTF-8">
+    </head>
+<body>
+<h2>My servlet page!</h2>
+<form action="./api" method="GET, POST">
+    <Button>Show current Date and Time</Button>
+</form>
+</body>
+</html>

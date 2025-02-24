@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.innovator.user.LoginEclipse&apos; to &apos;LoginBean&apos;&#x0D;&#x0A;- Original project: &apos;IliyaLoginApp&apos;&#x0D;&#x0A;- Original element: &apos;com.innovator.user.LoginEclipse&apos;&#x0D;&#x0A;- Renamed element: &apos;com.innovator.user.LoginBean&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;LoginEclipse&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java&lt;com.innovator.user{LoginEclipse.java[LoginEclipse" matchStrategy="1" name="LoginBean" qualified="false" references="true" similarDeclarations="false" stamp="1737896734534" textual="false" version="1.0"/>
+</session>

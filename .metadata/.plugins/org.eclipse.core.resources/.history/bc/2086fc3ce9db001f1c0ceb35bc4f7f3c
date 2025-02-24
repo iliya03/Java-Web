@@ -1,0 +1,8 @@
+package com.example;
+
+public class LogicBean {
+    public boolean validateUser(String name, String password) {
+        // Hardcoded validation for simplicity
+        return "Saugat Tiwari".equals(name) && "password".equals(password);
+    }
+}
